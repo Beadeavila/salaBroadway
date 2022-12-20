@@ -1,0 +1,58 @@
+body {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*,* :before, *:after {
+    box-sizing: inherit;
+}
+.imagenLogo {
+ 
+    height: 350px;    
+}
+
+.cardsMusicals {
+    padding: 25px;
+    background-color: rgb(122, 5, 5);
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    gap:20px;
+    
+}
+
+.premiere{
+    font-size: 12px;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    border-top: 5px solid rgb(46, 45, 45);
+    font-family:'Limelight', cursive; ;
+    background-color: rgb(122, 5, 5);
+    color: rgb(227, 231, 33);
+    text-transform: uppercase;
+    margin-bottom:0px !important;
+    padding-top:20px ;
+   
+}
+img {
+    height: 18rem;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+.title{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    padding: 1rem 0;
+    margin-top:1rem;              
+}

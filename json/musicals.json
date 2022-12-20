@@ -1,0 +1,104 @@
+{
+    "musicals": [
+        {
+            "id" : 1,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIKFnxo4nNJBKxKQtaUrLrf6vabipwfXw2aDq15nqQkYhJMSIzrXATdtDAVJJEyTEagc&usqp=CAU", 
+            "title" : "Mamma Mia!" ,
+            "premiere" : "6 abril 1999.<br> Prince Edward Theatre (Londres)",
+            "basis" : "Canciones del grupo ABBA",
+            "music" : "Benny Anderson. Björn Ulvaeus",
+            "lyrics" : "Benny Anderson. Björn Ulvaeus",
+            "book" : "Catherine Johnson"
+        },
+        {
+            "id" : 2,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uKrO1AE2Gz6D9GTaUf7dhfK_i6jto1mL_g&usqp=CAU", 
+            "title" : "Mary Poppins" ,
+            "premiere" : "18 septiembre 2004.<br> Bristol Hippodrome (Bristol)",
+            "basis" : "Serie de libros y película de Walt Disney Pictures",
+            "music" : "Robert B. Sherman. Richard M. Sherman",
+            "lyrics" : "Robert B. Sherman. Richard M. Sherman",
+            "book" : "Julian Fellowes"
+        },
+        {
+            "id" : 3,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROo6Ik7fGJ6lCXGSOr0Unx2eKv2qKIowMk4A&usqp=CAU", 
+            "title" : "Cats" ,
+            "premiere" : "11 mayo 1981.<br> New London Theatre",
+            "basis" : "'El libro de los gatos habilidosos del viejo Possum'",
+            "music" : "Andrew Lloyd Webber",
+            "lyrics" : "T.S. Eliot. Trevor Nunn. Richard Stilgoe",
+            "book" : "T.S. Eliot"
+        },
+        {
+            "id" : 4,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjcGMxkeCuG-7oMM5J8TXB0dYyveOcMUx_pjMvBDXntAH1YtlKH6ZbIdvqDWTQs-ugWyU&usqp=CAU", 
+            "title" : "Los Miserables" ,
+            "premiere" : "24 septiembre 1980.<br> Palais des Sports (París)",
+            "basis" : "Novela homónima de Víctor Hugo",
+            "music" : "Claude-Michel Schönberg",
+            "lyrics" : "Alain Boublil. Jean-Marc Natel",
+            "book" : "Claude-Michel Schönberg. Alain Boublil"
+        },
+        {
+            "id" : 5,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxkduns3mXPnLClfM6WhVpJe9WI2Y9zKJPw&usqp=CAU", 
+            "title" : "La Bella y la Bestia" ,
+            "premiere" : "18 abril 1994.<br> Palace Theatre de Broadway (Nueva York)",
+            "basis" : "Película de Walt Disney Animation Studios",
+            "music" : "Alan Menken",
+            "lyrics" : "Howard Ashman. Tim Rice",
+            "book" : "Linda Woolverton"
+        },
+        {
+            "id" : 6,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRXOsszxfZ2TavP243mx8-0TI8yKw-tjS-g&usqp=CAU", 
+            "title" : "El Rey León" ,
+            "premiere" : "13 noviembre 1997.<br> New Amsterdam Theatre (Nueva York)",
+            "basis" : "Película de Walt Disney Animation Studios",
+            "music" : "Elton John",
+            "lyrics" : "Tim Rice",
+            "book" : "Roger Allers. Irene Mecchi"
+        },
+        {
+            "id" : 7,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybN0RkJ34Sfw6JLZQwlf-VrKVbxp6Bjq83A&usqp=CAU", 
+            "title" : "Chicago" ,
+            "premiere" : "3 junio 1975.<br> 46th Street Theatre de Broadway (Nueva York)",
+            "basis" : "Obra de teatro 'Chicago' de Maurine Dallas Watkins",
+            "music" : "John Kander",
+            "lyrics" : "Fred Ebb",
+            "book" : "Fred Ebb. Bob Fosse"
+        },
+        {
+            "id" : 8,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmioO_h2wluG7PtcHAwjLhTBZxNF6BXx4GCIkwZAuXAzklkrxEsDTCRuMKKXY8zqCB2nU&usqp=CAU", 
+            "title" : "Wicked" ,
+            "premiere" : "10 junio 2003.<br> Curran Theatre (San Francisco)",
+            "basis" : "Novela: 'Wicked:Memorias de una bruja mala' de Gregory Maguire",
+            "music" : "Stephen Schwartz",
+            "lyrics" : "Stephen Schwartz",
+            "book" : "Winnie Holzman"
+        },
+        {
+            "id" : 9,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBXsndog0n6KB2baWarNy6vXVr1akHIg8mVecVcQEccAxp5ECVqjQTt7Nh9s9PSyysW4&usqp=CAU", 
+            "title" : "El Fantasma de la Ópera" ,
+            "premiere" : "9 octubre 1986.<br> Her Majesty's Theatre (Londres)",
+            "basis" : "NOvela homónima de Gastón Leroux",
+            "music" : "Andrew Lloid Webber",
+            "lyrics" : "Charles Hart. Richard Stilgoe",
+            "book" : "Andrew Lloid Webber. Richard Stilgoe"
+        },
+        {
+            "id" : 10,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6N85TcEYDehmnoyLo_ZyriYY4r6AgQY1kmA&usqp=CAU", 
+            "title" : "Jersey Boys" ,
+            "premiere" : "6 noviembre 2005.<br> August Wilson Theatre (Nueva York)",
+            "basis" : "Canciones de 'The Four Seasons'",
+            "music" : "Bob Gaudio",
+            "lyrics" : "Bob Crewe",
+            "book" : "Marshall Brickman. Rick Elice"
+        }
+    ]
+}
