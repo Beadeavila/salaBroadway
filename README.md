@@ -46,5 +46,6 @@ In order to enjoy the app, follow the instructions below:
 * Open Visual Studio Code and from a new terminal run: node -v
 * Make yourself a clone of my repository: git clone https://github.com/Beadeavila/salaBroadway.git
 * Back in the terminal type the following command: npm install ( or npm update, in case you have already installed it)
-* You must run the server from the folder: salaBroadway. ( you can display all folders running ls command in terminal)
-* Finalmente para ejecutar el servidor use:  json-server -- watch musicals.json
+* Now you need to run the server from the folder: salaBroadway: you can display all folders running ls command in terminal and go to salaBroadway folder using cd salaBroadway
+* Finally to run the server use:  npm install -g json-server
+* Enjoy de app! Thanks.
