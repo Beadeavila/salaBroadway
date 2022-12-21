@@ -44,7 +44,7 @@ In order to enjoy the app, follow the instructions below:
 
 * In order to run the app you must have NOde.js, otherwise you can install the LTS version from https://nodejs.org/es/download/
 * Open Visual Studio Code and from a new terminal run: node -v
-* Make yourself a clone of my repository: git clone
+* Make yourself a clone of my repository: git clone https://github.com/Beadeavila/salaBroadway.git
 * Back in the terminal type the following command: npm install ( or npm update, in case you have already installed it)
 * You must run the server from the folder: salaBroadway. ( you can display all folders running ls command in terminal)
 * Finalmente para ejecutar el servidor use:  json-server -- watch musicals.json
