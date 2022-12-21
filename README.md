@@ -42,7 +42,7 @@ Solo programming
 ## 8. How to install:
 In order to enjoy the app, follow the instructions below:
 
-* In order to run the app you must have NOde.js, otherwise you can install the LTS version from https://nodejs.org/es/download/
+* In order to run the app you must have Node.js, otherwise you can install the LTS version from https://nodejs.org/es/download/
 * Open Visual Studio Code and from a new terminal run: node -v
 * Make yourself a clone of my repository: git clone https://github.com/Beadeavila/salaBroadway.git
 * Back in the terminal type the following command: npm install ( or npm update, in case you have already installed it)
