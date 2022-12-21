@@ -8,7 +8,9 @@ body {
 }
 
 .imagenLogo {
-    height: 350px; 
+    align-items: center;
+    width: 60%;
+    height: auto;
     border: none;   
 }
 
